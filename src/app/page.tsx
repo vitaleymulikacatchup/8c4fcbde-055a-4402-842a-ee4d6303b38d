@@ -31,11 +31,11 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Freshly Roasted Coffee"
+          title="HEYYYYYYYYYYYYYYYYYYYYYY"
           description="Experience the perfect blend of artisanal coffee, crafted with passion and served with care in our cozy neighborhood coffee shop"
           tag="Premium Coffee"
           tagIcon={Coffee}
-          imageSrc="https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Modern coffee shop interior"
           imagePosition="right"
           buttons={[
@@ -56,7 +56,7 @@ export default function Home() {
           title="Our Story"
           description={[
             "Founded in 2018, Brew & Bean started as a small neighborhood coffee shop with a big dream: to serve the perfect cup of coffee.",
-            "We source our beans directly from sustainable farms and roast them in small batches to ensure maximum freshness and flavor in every cup."
+            "qwfqwfqwfqwfqwfqwf"
           ]}
           buttons={[
             {
