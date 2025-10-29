@@ -35,7 +35,7 @@ export default function Home() {
           description="Experience the perfect blend of artisanal coffee, crafted with passion and served with care in our cozy neighborhood coffee shop"
           tag="Premium Coffee"
           tagIcon={Coffee}
-          imageSrc="https://images.pexels.com/photos/1137745/pexels-photo-1137745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Modern coffee shop interior"
           imagePosition="right"
           buttons={[
@@ -213,7 +213,7 @@ export default function Home() {
           tagIcon={MapPin}
           title="Come for the coffee, stay for the community"
           description="Join our coffee community and never miss out on special blends, events, and brewing tips delivered to your inbox"
-          imageSrc="https://images.pexels.com/photos/1327663/pexels-photo-1327663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Coffee beans and cup"
           mediaPosition="right"
           inputPlaceholder="Enter your email"
